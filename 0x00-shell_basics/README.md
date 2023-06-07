@@ -1,1 +1,1 @@
-Script to check the directory of file
+\n This script lists the contents of a irectory
